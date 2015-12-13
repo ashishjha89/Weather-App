@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="map_margin">15dp</dimen>
+    <dimen name="weather_item_size">60dp</dimen>
+</resources>

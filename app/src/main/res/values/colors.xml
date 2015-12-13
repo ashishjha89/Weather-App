@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blank">#000000</color>
+    <!-- less than 40 F -->
+    <color name="cold">#311B92</color>
+    <!-- 41 F - 55 F -->
+    <color name="less_cold">#004D40</color>
+    <!-- 55 F - 70 F -->
+    <color name="pleasant">#1B5E20</color>
+    <!-- 70 F - 85 F -->
+    <color name="less_hot">#3E2723</color>
+    <!-- more than 85 F -->
+    <color name="hot">#DD2C00</color>
+</resources>
